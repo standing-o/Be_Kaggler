@@ -9,7 +9,11 @@
 
 -----------------------
 ## :chart_with_upwards_trend: Regression
+#### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+| [Transcription codes](https://github.com/standing-o/try_Kaggle/tree/master/House_price) |
 
+#### [Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales)
+| [Transcription codes](https://github.com/standing-o/try_Kaggle/tree/master/Future_sales) |
 
 <a href='#table-of-contents'></a>
 <br/>
