@@ -1,6 +1,6 @@
 # try Kaggle
 - Kaggle Notebook transcription -> Writing new Notebooks | to be master Kaggler :)
-- All source code is written with [Kaggle notebook](https://www.kaggle.com/docs/notebooks#types-of-notebooks).
+- All source code is written with [Kaggle notebook](https://www.kaggle.com/docs/notebooks#types-of-notebooks).   
 ➔ [`Kaggle Profile : Seoyoung Oh`](https://www.kaggle.com/ohseoyoung)
 - Jun. 9, 2022 ~ Present
 
