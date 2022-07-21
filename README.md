@@ -1,6 +1,7 @@
 # try Kaggle
 - Kaggle Notebook transcription -> Writing new Notebooks | to be master Kaggler :)
-- Kaggle Profile : [Seoyoung Oh](https://www.kaggle.com/ohseoyoung)
+- All source code is written in Kaggle environment.
+➔ [`Kaggle Profile : Seoyoung Oh`](https://www.kaggle.com/ohseoyoung)
 - Jun. 9, 2022 ~ Present
 
 ----------------------------------
