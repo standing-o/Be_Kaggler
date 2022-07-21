@@ -7,7 +7,7 @@
 ----------------------------------
 ## 👉 Table of Contents
 - [Regression](#chart_with_upwards_trend-regression)
-- [Anomaly Detection](#magnifying_glass_tilted_left-anomaly-detection)
+- [Anomaly Detection](#mag-anomaly-detection)
 -----------------------
 ## :chart_with_upwards_trend: Regression
 #### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
@@ -19,7 +19,7 @@
 <a href='#table-of-contents'></a>
 <br/>
 
-## :magnifying_glass_tilted_left: Anomaly Detection
+## :mag: Anomaly Detection
 #### [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 | [Transcription codes](https://github.com/standing-o/try_Kaggle/tree/master/Credit_card_fraud_detection) | 
 
