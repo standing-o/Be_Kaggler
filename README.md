@@ -21,6 +21,7 @@
 
 ## :mag: Anomaly Detection
 #### [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+> supervised anomaly detection
 | [Transcription codes](https://github.com/standing-o/try_Kaggle/tree/master/Credit_card_fraud_detection) | 
 
 <a href='#table-of-contents'></a>
